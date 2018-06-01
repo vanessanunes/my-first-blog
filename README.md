@@ -17,14 +17,3 @@ Feito em DJango
 
 
 
-
-
-## ATUALIZAR MUDANÇA EM MODELO
-> python3 manage.py makemigrations blog
-
-
-## APLICA A MUDANÇA DA ATUALIZAÇÃO (ACIMA)
-> python3 manage.py migrate blog
-
-
-
