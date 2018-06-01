@@ -1,27 +1,30 @@
 # my-first-blog
 
+Feito em DJango
+
 **Instruções**
 
 
-INICIAR DJANGO NO PYTHON 3.4 
-> virtualenv --python=python3.4 myvenv
+## Iniciar ambiente de desenvolvimento
+> source myvenv/bin/activate
 
 
-INICIAR AMBIENTE 
-> source ambiente/bin/activate
+## Instalar requirements.txt
+> pip3 install requirements.txt
+
+## Iniciar aplicação no servidor local
+> python3 manage.py runserver
 
 
-INSTALAR DJANGO (COM O AMBIENTE INICIADO!) 
-> pip install django==1.8.5
 
 
-ATUALIZAR MUDANÇA EM MODELO 
-> python manage.py makemigrations blog
+
+## ATUALIZAR MUDANÇA EM MODELO
+> python3 manage.py makemigrations blog
 
 
-APLICA A MUDANÇA DA ATUALIZAÇÃO (ACIMA) 
-> python manage.py migrate blog
+## APLICA A MUDANÇA DA ATUALIZAÇÃO (ACIMA)
+> python3 manage.py migrate blog
 
 
-RODAR APLICAÇÃO NO BROWSER 
-> python manage.py runserver
+
