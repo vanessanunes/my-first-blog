@@ -15,5 +15,5 @@ if __name__ == "__main__":
     execute_from_command_line(sys.argv)
 
 
-# Estou nessa parte: https://tutorial.djangogirls.org/pt/deploy/
+# Estou nessa parte: https://tutorial.djangogirls.org/pt/django_views/
 # http://blogdavan.pythonanywhere.com

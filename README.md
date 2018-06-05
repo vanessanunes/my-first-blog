@@ -14,6 +14,3 @@ Feito em DJango
 
 ## Iniciar aplicação no servidor local
 > python3 manage.py runserver
-
-
-
