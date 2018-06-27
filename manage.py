@@ -17,3 +17,4 @@ if __name__ == "__main__":
 
 # Estou nessa parte: https://tutorial.djangogirls.org/pt/django_views/
 # http://blogdavan.pythonanywhere.com
+# login: admin - senhas: padrão
