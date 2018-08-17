@@ -30,3 +30,4 @@ python manage.py migrate blog
 e
 
 python manage.py migrate
+
