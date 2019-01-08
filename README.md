@@ -6,7 +6,7 @@ Feito em DJango
 
 
 ## Iniciar ambiente de desenvolvimento
-> source myvenv/bin/activate
+> . myvenv/bin/activate
 
 
 ## Instalar requirements.txt
@@ -16,7 +16,10 @@ Feito em DJango
 > python3 manage.py runserver
 
 
-Windows
+* Senha para acessar : vanessa, 1234arroz
+
+<!-- 
+    Windows
 
 Iniciei instalando o venv e requirements.
 Depois executando:
@@ -31,3 +34,4 @@ e
 
 python manage.py migrate
 
+ -->
